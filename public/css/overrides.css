@@ -1,0 +1,8 @@
+#main-view {
+    padding-top: 90px;
+    text-align: center;
+}
+
+#main-view h2 { margin-bottom: 1em; }
+
+.avatar { display: inline-block; margin: 0 1.5em; }
